@@ -1,6 +1,6 @@
 # **_About Me_**
 
-_My name is [Leonardo](https://www.linkedin.com/in/LeoMSSilva), I am married, I am 27 years old, I live in Campo Grande, Rio de Janeiro, RJ. 😁
+_My name is [Leonardo](https://www.linkedin.com/in/LeoMSSilva), I am married, I am 28 years old, I live in Campo Grande, Rio de Janeiro, RJ. 😁
 </br>
 Graduated in Computer Science at UNICARIOCA (Carioca University Center). 👨‍🎓
 </br>
@@ -26,7 +26,7 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 
 - **Back-End**
 
-[![JAVA](https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=java&logoColor=ffffff)](#)
+[![JAVA](https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=ffffff)](#)
 [![SPRING](https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=ffffff)](#)
 [![NODE.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](#)
 [![EXPRESS.JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](#)
