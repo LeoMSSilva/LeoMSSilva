@@ -1,6 +1,6 @@
 # **_About Me_**
 
-_My name is [Leonardo](https://www.linkedin.com/in/LeoMSSilva), I am married, I am 28 years old, I live in Campo Grande, Rio de Janeiro, RJ. 😁
+_My name is [Leonardo](https://www.linkedin.com/in/LeoMSSilva), I am married, I am 29 years old, I live in Campo Grande, Rio de Janeiro, RJ. 😁
 </br>
 Graduated in Computer Science at UNICARIOCA (Carioca University Center). 👨‍🎓
 </br>
@@ -36,15 +36,24 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 [![REACT NATIVE](https://img.shields.io/badge/react_native-5dd3f3?style=for-the-badge&logo=react&logoColor=ffffff)](#)
 [![EXPO](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff)](#)
 
+- **Low Code**
+
+[![OutSystems](https://img.shields.io/badge/OutSystems-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBmaWxsPSIjRkYyNDAwIiBkPSJNNDggMjRjMCAxMy4yNTUtMTAuNzQ1IDI0LTI0IDI0UzAgMzcuMjU1IDAgMjQgMTAuNzQ1IDAgMjQgMHMyNCAxMC43NDUgMjQgMjRabS0zMi44IDBhOC44IDguOCAwIDEgMCAxNy42IDAgOC44IDguOCAwIDAgMC0xNy42IDBaIi8+PC9zdmc+&logoColor=ffffff)](#)
+
 - **Databases**
 
 [![MYSQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=ffffff)](#)
 [![SQLITE](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=ffffff)](#)
+[![SQL Server](https://img.shields.io/badge/sqlserver-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)](#)
 [![MONGODB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](#)
 
 - **DevOps**
 
 [![DOCKER](https://img.shields.io/badge/docker-2396ed?style=for-the-badge&logo=docker&logoColor=ffffff)](#)
+
+- **Prototyping**
+
+[![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=#f24e1e)](#)
 
 - **Operational Systems**
 
