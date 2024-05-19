@@ -12,69 +12,63 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 
 - **Front-End**
 
-[![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=ffffff)](#)
-[![CSS](https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=Css3&logoColor=ffffff)](#)
-[![SASS](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff)](#)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)](#)
-[![STYLED-COMPONENTS](https://img.shields.io/badge/styled_components-f0afee?style=for-the-badge&logo=styledcomponents&logoColor=9f683f)](#)
-[![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](#)
+![Html5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=e34f26)
+![Css3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=cc6699)
+![TailwindCss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=0ea5e9)
+![Styled Componentes](https://img.shields.io/badge/styled_components-000?style=for-the-badge&logo=styledcomponents&logoColor=f0afee)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
 
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=ffffff)](#)
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)](#)
-[![REACT.JS](https://img.shields.io/badge/react.js-5dd3f3?style=for-the-badge&logo=react&logoColor=ffffff)](#)
-[![ANGULAR](https://img.shields.io/badge/angular-c30330?style=for-the-badge&logo=angular&logoColor=ffffff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Typecript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![ReactJs](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61dafb)
+![AngularJs](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=c30330)
 
 - **Back-End**
 
-[![JAVA](https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=ffffff)](#)
-[![SPRING](https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=ffffff)](#)
-[![NODE.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](#)
-[![EXPRESS.JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](#)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![ExpressJs](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%3f3f3f)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23e14a3a)
+![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
 
 - **Mobile**
 
-[![REACT NATIVE](https://img.shields.io/badge/react_native-5dd3f3?style=for-the-badge&logo=react&logoColor=ffffff)](#)
-[![EXPO](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff)](#)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61dafb)
+![Expo](https://img.shields.io/badge/expo-000?style=for-the-badge&logo=expo&logoColor=090827)
 
 - **Low Code**
 
-[![OutSystems](https://img.shields.io/badge/OutSystems-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBmaWxsPSIjRkYyNDAwIiBkPSJNNDggMjRjMCAxMy4yNTUtMTAuNzQ1IDI0LTI0IDI0UzAgMzcuMjU1IDAgMjQgMTAuNzQ1IDAgMjQgMHMyNCAxMC43NDUgMjQgMjRabS0zMi44IDBhOC44IDguOCAwIDEgMCAxNy42IDAgOC44IDguOCAwIDAgMC0xNy42IDBaIi8+PC9zdmc+&logoColor=ffffff)](#)
+![OutSystems](https://img.shields.io/badge/OutSystems-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBmaWxsPSIjRkYyNDAwIiBkPSJNNDggMjRjMCAxMy4yNTUtMTAuNzQ1IDI0LTI0IDI0UzAgMzcuMjU1IDAgMjQgMTAuNzQ1IDAgMjQgMHMyNCAxMC43NDUgMjQgMjRabS0zMi44IDBhOC44IDguOCAwIDEgMCAxNy42IDAgOC44IDguOCAwIDAgMC0xNy42IDBaIi8+PC9zdmc+&logoColor=ff2d07)
 
 - **Databases**
 
-[![MYSQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=ffffff)](#)
-[![SQLITE](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=ffffff)](#)
-[![SQL Server](https://img.shields.io/badge/sqlserver-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)](#)
-[![MONGODB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](#)
+![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=25526d)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQL Server](https://img.shields.io/badge/sqlserver-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)
 
 - **DevOps**
 
-[![DOCKER](https://img.shields.io/badge/docker-2396ed?style=for-the-badge&logo=docker&logoColor=ffffff)](#)
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=2396ed)
 
 - **Prototyping**
 
-[![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=#f24e1e)](#)
+![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 - **Operational Systems**
 
-[![LINUX](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=ffffff)](#)
-[![WINDOWS](https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=ffffff)](#)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=fcc624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2ca5e0)
 
 ---
 
 # **_Contact Me_**
 
-[![LINKEDIN](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/LeoMSSilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2)](https://www.linkedin.com/in/LeoMSSilva)
 
 ---
 
-<img alt="Profile views"
-	src="https://komarev.com/ghpvc/?username=LeoMSSilva&style=plastic&color=3178c6&label=PROFILE%20VIEWS"/>
+![Views_Counter](https://komarev.com/ghpvc/?username=LeoMSSilva&color=0a66c2&label=PROFILE%20VIEWS)
 
-<img
-	width="495" alt="Most Used Languages"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSSilva&custom_title=MOST%20%USED%20%LANGUAGES&layout=compact&langs_count=10&hide=php,starlark,ruby,objective-c&border_radius=10&title_color=61dafb&text_color=ffffff&border_color=61dafb&bg_color=000020&card_width=495"/>
-
-<img 
-	width="495" alt="GitHub Stats"
-	src="https://github-readme-stats.vercel.app/api?username=LeoMSSilva&custom_title=GITHUB%20STATS&show_icons=true&border_radius=10&title_color=61dafb&text_color=ffffff&border_color=61dafb&icon_color=61dafb&bg_color=000020&line_height=22"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSSilva&locale=en&custom_title=MOST%20%USED%20%LANGUAGES&layout=compact&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&langs_count=20&hide=php,ruby,objective-c,objective-c++)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMSSilva&locale=en&custom_title=GITHUB%20STATS&show_icons=true&layout=compactd&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&line_height=24&hide=contribs&show=reviews)
