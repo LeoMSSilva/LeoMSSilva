@@ -22,14 +22,17 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![Typecript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![ReactJs](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![AngularJs](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=c30330)
 
 - **Back-End**
 
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![ExpressJs](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%3f3f3f)
+![Nest](https://img.shields.io/badge/nestjs-000.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23e14a3a)
 ![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
+![Prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=153A51)
 
 - **Mobile**
 
@@ -44,8 +47,10 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 
 ![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=25526d)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=396C94)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQL Server](https://img.shields.io/badge/sqlserver-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)
+![PL SQL](https://img.shields.io/badge/pl_sql-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfcGxzcWw8L3RpdGxlPjxwYXRoIGQ9Ik04LjU2MiwxNS4yNTZBMjEuMTU5LDIxLjE1OSwwLDAsMCwxNiwxNi40NDlhMjEuMTU5LDIxLjE1OSwwLDAsMCw3LjQzOC0xLjE5NGMxLjg2NC0uNzI3LDIuNTI1LTEuNTM1LDIuNTI1LTJWOS43YTEwLjM1NywxMC4zNTcsMCwwLDEtMi4wODQsMS4wNzZBMjIuMjkzLDIyLjI5MywwLDAsMSwxNiwxMi4wNzhhMjIuMzYsMjIuMzYsMCwwLDEtNy44NzktMS4zQTEwLjI4LDEwLjI4LDAsMCwxLDYuMDM3LDkuN3YzLjU1QzYuMDM3LDEzLjcyNCw2LjcsMTQuNTI4LDguNTYyLDE1LjI1NloiIHN0eWxlPSJmaWxsOnJlZCIvPjxwYXRoIGQ9Ik04LjU2MiwyMS45NjFhMTUuNjExLDE1LjYxMSwwLDAsMCwyLjYuNzQxQTI0LjksMjQuOSwwLDAsMCwxNiwyMy4xNTVhMjQuOSwyNC45LDAsMCwwLDQuODM4LS40NTIsMTUuNjE0LDE1LjYxNCwwLDAsMCwyLjYtLjc0MWMxLjg2NC0uNzI3LDIuNTI1LTEuNTM1LDIuNTI1LTJ2LTMuMzlhMTAuNzA2LDEwLjcwNiwwLDAsMS0xLjY5Mi44MjVBMjMuNDksMjMuNDksMCwwLDEsMTYsMTguNzRhMjMuNDksMjMuNDksMCwwLDEtOC4yNzEtMS4zNDgsMTAuODI5LDEwLjgyOSwwLDAsMS0xLjY5Mi0uODI1VjE5Ljk2QzYuMDM3LDIwLjQyNiw2LjcsMjEuMjMxLDguNTYyLDIxLjk2MVoiIHN0eWxlPSJmaWxsOnJlZCIvPjxwYXRoIGQ9Ik0xNiwzMGM1LjUsMCw5Ljk2My0xLjc0NCw5Ljk2My0zLjg5NFYyMy4yNjlhMTAuNSwxMC41LDAsMCwxLTEuNTM1Ljc2MmwtLjE1Ny4wNjNBMjMuNDg3LDIzLjQ4NywwLDAsMSwxNiwyNS40NDVhMjMuNDIyLDIzLjQyMiwwLDAsMS04LjI3MS0xLjM1MWMtLjA1NC0uMDItLjEwNi0uMDQzLS4xNTctLjA2M2ExMC41LDEwLjUsMCwwLDEtMS41MzUtLjc2MnYyLjgzN0M2LjAzNywyOC4yNTYsMTAuNSwzMCwxNiwzMFoiIHN0eWxlPSJmaWxsOnJlZCIvPjxlbGxpcHNlIGN4PSIxNiIgY3k9IjUuODk0IiByeD0iOS45NjMiIHJ5PSIzLjg5NCIgc3R5bGU9ImZpbGw6cmVkIi8+PC9zdmc+&logoColor=ff2d0a)
 
 - **DevOps**
 
@@ -54,6 +59,7 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 - **Prototyping**
 
 ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=f24e1e)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-000?style=for-the-badge&logo=adobexd&logoColor=ff66f6)
 
 - **Operational Systems**
 
