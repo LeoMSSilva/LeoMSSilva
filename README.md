@@ -13,7 +13,7 @@ I'm a fullstack web and mobile developer._ 👨‍💻
 - **Front-End**
 
 ![Html5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=e34f26)
-![Css3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Css3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=1572b6)
 ![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=cc6699)
 ![TailwindCss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=0ea5e9)
 ![Styled Componentes](https://img.shields.io/badge/styled_components-000?style=for-the-badge&logo=styledcomponents&logoColor=f0afee)
