@@ -15,7 +15,7 @@ I'm Graduated in Computer Science from UNICARIOCA (Carioca University Center). :
 
 ---
 
-# **_Technology skills_**
+# :computer: **_Technology skills_** :rocket:
 
 - **Front-End**
 
@@ -75,7 +75,12 @@ I'm Graduated in Computer Science from UNICARIOCA (Carioca University Center). :
 
 ---
 
-# **_Contact Me_**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSSilva&locale=en&custom_title=MOST%20%USED%20%LANGUAGES&layout=compact&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&langs_count=20&hide=php,ruby,objective-c,objective-c%2B%2B)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMSSilva&locale=en&custom_title=GITHUB%20STATS&show_icons=true&layout=compactd&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&line_height=24&hide=contribs&show=reviews)
+
+---
+
+# :incoming_envelope: **_Contact Me_** :mailbox_with_mail:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iIzBiNjZjMiI+CiAgPHBhdGgKICAgIGQ9Im0yMS45NCwwLjMxbC0xOS45OCwwYTEuNzYsMS43NSAwIDAgMCAtMS43NiwxLjc1bDAsMTkuODhhMS43NiwxLjc1IDAgMCAwIDEuNzYsMS43NWwxOS45OCwwYTEuNzYsMS43NSAwIDAgMCAxLjc2LC0xLjc1bDAsLTE5Ljg4YTEuNzYsMS43NSAwIDAgMCAtMS43NiwtMS43NXptLTE0LjY5LDE5Ljg4bC0zLjUzLDBsMCwtMTAuNTJsMy41MywwbDAsMTAuNTJ6bS0xLjc2LC0xMi41N2EyLjA2LDIuMDUgMCAxIDEgMi4xMiwtMi4wNWEyLjA5LDIuMDggMCAwIDEgLTIuMTIsMi4wNXptMTQuNjksMTIuNTdsLTMuNTMsMGwwLC01LjU0YzAsLTEuNjYgLTAuNzEsLTIuMjYgLTEuNjIsLTIuMjZhMi4wNCwyLjAzIDAgMCAwIC0xLjksMi4xN2EwLjc4LDAuNzcgMCAwIDAgMCwwLjE2bDAsNS40NmwtMy41MywwbDAsLTEwLjUybDMuNDEsMGwwLDEuNTJhMy42NSwzLjY0IDAgMCAxIDMuMTcsLTEuNjRjMS44MiwwIDMuOTUsMS4wMSAzLjk1LDQuMjhsMC4wNSw2LjM2eiIKICAgIGlkPSJzdmdfMSIgLz4KPC9zdmc+Cg==&logoColor=0b66c2)](https://www.linkedin.com/in/LeoMSSilva)
 
@@ -87,6 +92,3 @@ If you want to develop something together, exchange ideas, or explore projects, 
 And if you like my projects, don't forget to give them a star :star:!
 
 ![Views_Counter](https://komarev.com/ghpvc/?username=LeoMSSilva&color=0a66c2&label=PROFILE%20VIEWS)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSSilva&locale=en&custom_title=MOST%20%USED%20%LANGUAGES&layout=compact&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&langs_count=20&hide=php,ruby,objective-c,objective-c%2B%2B)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMSSilva&locale=en&custom_title=GITHUB%20STATS&show_icons=true&layout=compactd&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&line_height=24&hide=contribs&show=reviews)
