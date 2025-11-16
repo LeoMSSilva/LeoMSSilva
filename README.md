@@ -81,6 +81,11 @@ I'm Graduated in Computer Science from UNICARIOCA (Carioca University Center). :
 
 ---
 
+# Let's connect? 
+If you want to develop something together, exchange ideas, or explore projects, follow me!
+</br>
+And if you like my projects, don't forget to give them a star :star:!
+
 ![Views_Counter](https://komarev.com/ghpvc/?username=LeoMSSilva&color=0a66c2&label=PROFILE%20VIEWS)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMSSilva&locale=en&custom_title=MOST%20%USED%20%LANGUAGES&layout=compact&border_radius=8&title_color=5dd3f3&text_color=ffffff&border_color=5dd3f3&bg_color=000020&card_width=400&langs_count=20&hide=php,ruby,objective-c,objective-c%2B%2B)
