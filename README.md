@@ -1,10 +1,17 @@
-# **_About Me_**
-
-_My name is [Leonardo](https://www.linkedin.com/in/LeoMSSilva), I am married, I am 30 years old, I live in Campo Grande, Rio de Janeiro, RJ. 😁
+# :wave::grin: Hello! I'm Leonardo  :man_technologist:
+Fullstack Web and Mobile Developer
 </br>
-Graduated in Computer Science at UNICARIOCA (Carioca University Center). 👨‍🎓
+Passionate about creating elegant and functional solutions 
 </br>
-I'm a fullstack web and mobile developer._ 👨‍💻
+Always learning new technologies and best practices 
+</br>
+Curious about design, user experience, and innovation 
+</br>
+I like clean code and solutions that make sense 
+</br>
+I love collaborating and learning from other developers 
+</br>
+I'm Graduated in Computer Science from UNICARIOCA (Carioca University Center). :student:
 
 ---
 
