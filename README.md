@@ -36,6 +36,7 @@ I'm Graduated in Computer Science from UNICARIOCA (Carioca University Center). :
 
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![ExpressJs](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%3f3f3f)
+![Fastify](https://img.shields.io/badge/fastify-000?style=for-the-badge&logo=fastify&logoColor=fff)
 ![Nest](https://img.shields.io/badge/nestjs-000.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23e14a3a)
 ![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
